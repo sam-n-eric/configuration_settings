@@ -8,11 +8,11 @@
 [merge]
 	tool = p4merge
 [color]
-    ui = true
+	ui = true
 [color "status"]
-    changed = red bold
-    untracked = red bold
-    added = green bold
+	changed = red bold
+	untracked = red bold
+	added = green bold
 [color "branch"]
 	remote = red bold
 
