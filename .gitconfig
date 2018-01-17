@@ -1,0 +1,18 @@
+[pull]
+	rebase = true
+[user]
+	name = Steven Fisher
+	email = steven.fisher@markit.com
+[core]
+	editor = uedit64
+[merge]
+	tool = p4merge
+[color]
+    ui = true
+[color "status"]
+    changed = red bold
+    untracked = red bold
+    added = green bold
+[color "branch"]
+	remote = red bold
+
